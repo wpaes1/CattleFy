@@ -1,0 +1,30 @@
+{
+  "brandName": "Cattle Flow",
+  "title": "Cattle Flow - Você no controle de sua fazenda",
+  "Docs": "https://cattleflow.com/datta",
+  "changeLog": "https://cattleflow.com/datta/changelog",
+  "buyNow": "https://cattleflow.com/item/datta-able-react-admin-template/",
+  "company": {
+    "name": "Cattle flow",
+    "url": "https://cattleflow.com",
+    "support": "https://cattleflow.com/support/",
+    "privacyPolicy": "https://cattleflow.com/privacy-policy/",
+    "license": "https://cattleflow.com/license/",
+    "socialLink": {
+      "linkedin": "https://www.linkedin.com/company/codedthemes/",
+      "twitter": "https://x.com/codedthemes",
+      "instagram": "https://www.instagram.com/codedthemes/",
+      "facebook": "https://www.facebook.com/codedthemes",
+      "youtube": "https://www.youtube.com/@codedthemes",
+      "github": "https://github.com/codedthemes",
+      "dribble": "https://dribbble.com/codedthemes",
+      "discord": "https://discord.com/invite/p2E2WhCb6s"
+    }
+  },
+  "logo": {
+    "main": "",
+    "logoIcon": "",
+    "logoFab": "",
+    "logoWatermark": ""
+  }
+}
