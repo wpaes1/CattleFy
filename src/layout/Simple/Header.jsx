@@ -41,7 +41,7 @@ export default function HeaderSection() {
         <Navbar.Collapse id="navbarTogglerDemo01">
           <Nav className="ms-auto mb-2 mb-md-0 align-items-start">
             <Nav.Item className="px-1">
-              <Link to="https://cattleflow.com/datta" target="_blank" className="nav-link">
+              <Link to="https://cattlefy.com/datta" target="_blank" className="nav-link">
                 Documentation
               </Link>
             </Nav.Item>
